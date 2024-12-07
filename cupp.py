@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-#  [Program]
+###  [Program]
 #
 #  CUPP
 #  Common User Passwords Profiler
